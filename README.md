@@ -1,7 +1,7 @@
-# Comparing-NBA-players-shot-location
+# Visualizing data with python
 In week 3 of the University of Michigan's Foundations of Sports Analytics: Data, Representation, and Models in Sports we have looked at different ways of visualizing data. The assignment for this week is in two parts. First, use the NBA 2017 data to create some plots to compare individual players, and second, use the IPL innings data to comparing scoring rates of teams in different games.
 
-## Part 1
+## Part 1 - Comparing NBA players shot location
 1. Load the data containing the NBA shot log for the 2016/17 season that we used earlier
 
 2. Use the same code that we used to project all shots onto a half court by defining shot[‘halfcourt_x’] and shot[‘halfcourt_y’]
@@ -17,7 +17,7 @@ In week 3 of the University of Michigan's Foundations of Sports Analytics: Data,
 
 6. Create the plot of Brook Lopez and Robin Lopez side by side
 
-## Part II (This was very challenging as I have zero Cricket knowledge)
+## Part II - IPL innings data to comparing scoring rates of teams in different games (this was very challenging as I have zero Cricket knowledge)
 1. Load the data for the IPL ball by ball (IPLbyb) and run the two functions that allow you to plot the game run/wicket curves for each game, and to plot multiple games alongside each other.
 
 2. Now generate the plots for the pair of games between
